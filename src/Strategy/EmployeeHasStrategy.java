@@ -23,7 +23,7 @@ public class EmployeeHasStrategy {
             }
     }
 
-    public void setState(Strategy strategy) {
+    public void setStrategy(Strategy strategy) {
         this.strategy = strategy;
     }
 
