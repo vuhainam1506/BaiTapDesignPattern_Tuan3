@@ -22,4 +22,8 @@ public class Employee {
             System.out.println("Quản lý tài chính.");
         }
     }
+    public void setChucVu()
+    {
+
+    }
 }
